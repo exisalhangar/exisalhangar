@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=exisalhangar&label=break+my+heart&base=420000&abbreviated=true&color=2f516a" width="135">
+<img src="https://komarev.com/ghpvc/?username=exisalhangar&label=break+my+heart&base=419900&abbreviated=true&color=2f516a" width="135">
 </p>
 
 <p align="center">
