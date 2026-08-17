@@ -12,5 +12,5 @@
 winterfest⠀⠀19⠀⠀they/them⠀⠀diagnosed DID system⠀⠀infrequent switching
 </p>
 <p align="center">
-brain tumors <a href="https://github.com/princeofheart">@princeofheart</a> <a href="https://github.com/gnostalgic">@gnostalgic</a> <a href="https://github.com/clawkind">@clawkind</a> <a href="https://github.com/timeturntables">@timeturntables</a>⠀⠀<a href="https://pluralkit.xyz/f/lvusg">fronter</a>
+brain tumors <a href="https://github.com/princeofheart">@princeofheart</a> <a href="https://github.com/gnostalgic">@gnostalgic</a> <a href="https://github.com/clawkind">@clawkind</a> <a href="https://github.com/timeturntables">@timeturntables</a>⠀⠀<a href="https://pluralkit.xyz/f/lvusg">fronter(s)</a>
 </p>
